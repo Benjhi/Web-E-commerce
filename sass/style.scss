@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&family=Roboto&family=Rubik&display=swap');
-/* Sass Template */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Thambi+2&family=Raleway&family=Rubik&display=swap');
 
-/*# sourceMappingURL=style.css.map*/
-@import'./include/variables.scss';
-@import'./include/global.scss';
-@import'./include/typography.scss';
-@import'./include/color.scss';
+/*              Sass Template           */
+@import 'include/variables';
+@import 'include/global';
+@import 'include/typography';
+@import 'include/color';
+@import 'include/top-sale';
+@import 'include/special-price';
